@@ -1,0 +1,25 @@
+{
+    "name": "marcha/laravel-firebird-support",
+    "type": "library",
+    "description": "Support for Firebird database for Laravel 4.x",
+    "keywords": ["database", "laravel", "firebird"],
+    "license": "MIT",
+    "homepage": "http://github.com/marcha/laravel-firebird-support",
+    "authors": [
+        {
+            "name": "Nikola Marčić",
+            "email": "marcic74@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Illuminate\\Database": "src/"
+        }
+	
+    }
+}
+
