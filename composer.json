@@ -1,10 +1,10 @@
 {
-    "name": "marcha/laravel-firebird-support",
+    "name": "tok3/laravel42-firebird-support",
     "type": "library",
     "description": "Support for Firebird database for Laravel 4.x",
     "keywords": ["database", "laravel", "firebird"],
     "license": "MIT",
-    "homepage": "http://github.com/marcha/laravel-firebird-support",
+    "homepage": "https://github.com/tok3/laravel42-firebird-support",
     "authors": [
         {
             "name": "Nikola Marčić",
